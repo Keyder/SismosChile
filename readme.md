@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Sismos Chile
 
-Sismos Chile
+Aplicación hibrida de sismos en Chile
 
 ![alt text](https://github.com/Keyder/SismosChile/blob/master/assets/Screenshot.jpg?raw=true)
 
