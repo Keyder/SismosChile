@@ -61,8 +61,6 @@ _Herramientas principales_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Keyder** - *Creador* - [Keyder](https://github.com/Keyder)
 
 ## Licencia 📄
